@@ -1,2 +1,2 @@
 # odin-recipes
-Odin recipes project is about using the new HTML skills I have been learning by creating a basic recipe website. It will be done is pure html so it will look quite "Brutalist" in is design.
+Odin recipes project is about using the new HTML skills I have been learning by creating a basic recipe website. It will be done is pure html so it will look quite "Brutalist" in its design.
